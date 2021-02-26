@@ -1,0 +1,13 @@
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body {
+  background-color: #F5F5F5;
+}
+#beer{
+  overflow-y: auto;
+  position: relative;
+  padding-bottom: 70px;
+}

@@ -16,6 +16,6 @@ You will also see any lint errors in the console.
 
 ## Clarification
 
-In our project, we named our component 'a-propos' instead of about
+In our project, we named our component 'a-propos' instead of 'about'.
 So, to access it when browsing the url, you just have to put 'url / a-propos'.
 
